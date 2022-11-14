@@ -11,16 +11,6 @@
  * [Exorde Türkiye Kanalı](https://t.me/ExordeTurkish)
  * [Exorde Discord Kanalı](https://discord.gg/44KzbSWB)
  * [Sıralama](https://explorer.exorde.network/leaderboard) ve [Explorer](https://explorer.exorde.network/)
- * Video rehberi gün içinde gelecek
- * Sohbet ve sorular için [Discord](discord.gg/ruescommunity) ve [Telegram](https://t.me/RuesChat) kanallarımız
-
-## NOT (ilk defa node kuranlar):
-
- * Bu nodeları bilgisayarınıza kurabilirisniz ancak tavsiye etmem asla
- * Sanal sunucu kullanıyoruz, ücretli/ücretsiz sunucular mevcut.
- * Discord kanalımda sunucu nedir, node nedir, nasıl bağlanılır bu 3 temel konu hakkında video ve makale mevcut
- * Bunları anladığınız anda tüm nodeları kendiniz kurabilirsiniz, sorularınız için discord kanalı mevcut.
- * Rehberler ve sorular için: [Discord kanalı](discord.gg/ruescommunity)
 
 ## Gerekli notlar:
 
@@ -77,12 +67,7 @@ docker run -it exorde-cli -m metamask -l 2
 ## Ve gördüğünüz gibi çalışıyor:
 
  
- * [Notlar](https://github.com/ruesandora/ExordeLabs#gerekli-notlar) kısmında belirttiğim hatayı alırsanız tekrar denemekten başka çare yok.
  * Çalıştığı zaman ctrl a d ile çıkın ve dokunmayın, arada kontrol edersiniz.
- * Çalıştığını nasıl anlayacağız? Notlar kısmında ki hatayı vermeyip node calısıyorsa işlem tamamdır. 
-
-![image](https://user-images.githubusercontent.com/101149671/201302924-3d6c7127-6343-47fc-853b-353715b3e018.png)
-
 
 ## Gerekli komutlar:
 
